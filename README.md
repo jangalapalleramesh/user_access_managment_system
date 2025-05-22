@@ -154,7 +154,7 @@ UPDATE users SET role = 'Admin' WHERE username = 'adminuser';
 
 ## 👨‍💻 Author
 
-Created by [Your Name] — B.Tech CSE Final Year  
+Created by [Venkata Ramesh Jangalapalle] — B.Tech CSE Final Year  
 Feel free to fork and modify for your own projects!
 
 ---
